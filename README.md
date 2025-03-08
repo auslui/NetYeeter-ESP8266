@@ -18,9 +18,9 @@ NetYeeter-ESP8266 is your ultimate Wi-Fi chaos toolkit! Built for the ESP8266, t
 - **NetYeeter.apk** (for Android) – a dedicated app for direct control.
 
 ## 📥 Downloads
-- **[Download ESP8266Flasher.exe](#)** (Windows)
-- **[Download NetYeeter.apk](#)** (Android)
-- **[Download NetYeeter.bin](#)** (Firmware)
+- **[Download ESP8266Flasher.exe](ESP8266Flasher.exe)** (Windows)
+- **[Download NetYeeter.apk](NetYeeter.apk)** (Android)
+- **[Download NetYeeter.bin](netyeeter.bin)** (Firmware)
 
 ## ⚙️ Installation Guide
 ### 💻 Flashing with ESP8266Flasher (Windows)
